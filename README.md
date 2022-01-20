@@ -1,11 +1,12 @@
 # Gasto-Viagem
-App android nativo usando kotlin
 ![GitHub repo size](https://img.shields.io/github/repo-size/davicruzof/Gasto-Viagem?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/davicruzof/Gasto-Viagem?style=for-the-badge)
 ![Language Primary](https://img.shields.io/github/languages/top/davicruzof/Gasto-Viagem?style=for-the-badge)
 
 
 <img src="https://github.com/davicruzof/Gasto-Viagem/blob/main/A4%20-%201%20(3).png" alt="exemplo imagem">
+
+> App android nativo usando kotlin
 
 > App para calculo do consumo de combustivel
 
